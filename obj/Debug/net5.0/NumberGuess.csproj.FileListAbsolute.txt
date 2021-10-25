@@ -1,0 +1,15 @@
+/Users/alisher/Desktop/learning/c#/DotNet/NumberGuess/obj/Debug/net5.0/NumberGuess.csproj.AssemblyReference.cache
+/Users/alisher/Desktop/learning/c#/DotNet/NumberGuess/obj/Debug/net5.0/NumberGuess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alisher/Desktop/learning/c#/DotNet/NumberGuess/obj/Debug/net5.0/NumberGuess.AssemblyInfoInputs.cache
+/Users/alisher/Desktop/learning/c#/DotNet/NumberGuess/obj/Debug/net5.0/NumberGuess.AssemblyInfo.cs
+/Users/alisher/Desktop/learning/c#/DotNet/NumberGuess/obj/Debug/net5.0/NumberGuess.csproj.CoreCompileInputs.cache
+/Users/alisher/Desktop/learning/c#/DotNet/NumberGuess/bin/Debug/net5.0/NumberGuess.deps.json
+/Users/alisher/Desktop/learning/c#/DotNet/NumberGuess/bin/Debug/net5.0/NumberGuess.runtimeconfig.json
+/Users/alisher/Desktop/learning/c#/DotNet/NumberGuess/bin/Debug/net5.0/NumberGuess.runtimeconfig.dev.json
+/Users/alisher/Desktop/learning/c#/DotNet/NumberGuess/bin/Debug/net5.0/NumberGuess.dll
+/Users/alisher/Desktop/learning/c#/DotNet/NumberGuess/bin/Debug/net5.0/ref/NumberGuess.dll
+/Users/alisher/Desktop/learning/c#/DotNet/NumberGuess/bin/Debug/net5.0/NumberGuess.pdb
+/Users/alisher/Desktop/learning/c#/DotNet/NumberGuess/obj/Debug/net5.0/NumberGuess.dll
+/Users/alisher/Desktop/learning/c#/DotNet/NumberGuess/obj/Debug/net5.0/ref/NumberGuess.dll
+/Users/alisher/Desktop/learning/c#/DotNet/NumberGuess/obj/Debug/net5.0/NumberGuess.pdb
+/Users/alisher/Desktop/learning/c#/DotNet/NumberGuess/obj/Debug/net5.0/NumberGuess.genruntimeconfig.cache
